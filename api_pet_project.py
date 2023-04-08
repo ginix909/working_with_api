@@ -8,9 +8,9 @@ adress_2 = 'https://www.cbr-xml-daily.ru/daily_json.js'
 adress_3 = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=IBM&apikey=demo'
 
 
-API_alphavantage = '18N3RG1RBHUPQWA7'                   # api key на сайте www.alphavantage.co
-API_openweather = '0cb94b92bd681d0cc1c1f97810e8c4a1'    # api key  Вовы на сайте openweather
-# API = '144fd0a1899c3b0e3140271f95670aa9'              # api key мой апи на сайте openweather но он не работает...
+API_alphavantage = ''                   # api key на сайте www.alphavantage.co
+API_openweather = ''    # api key  Вовы на сайте openweather
+# API = ''              # api key мой апи на сайте openweather но он не работает...
 city = 'Saransk'
 stock = 'IBM'
 interval = '60min'
